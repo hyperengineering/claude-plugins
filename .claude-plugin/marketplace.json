@@ -4,15 +4,15 @@
   "description": "Official plugins from Hyper Engineering",
   "owner": {
     "name": "Hyper Engineering",
-    "email": "plugins@hyperengineering.ai"
+    "email": "ljuti@nmux.dev"
   },
   "plugins": [
     {
       "name": "recall",
       "description": "Experiential memory system for AI coding agents. Record, query, and learn from development insights across sessions.",
       "source": {
-        "type": "github",
-        "repo": "hyperengineering/recall-claude-plugin"
+        "source": "url",
+        "url": "https://github.com/hyperengineering/recall-claude-plugin.git"
       },
       "category": "developer-tools",
       "tags": [
