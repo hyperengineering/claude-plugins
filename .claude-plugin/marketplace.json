@@ -1,0 +1,29 @@
+{
+  "$schema": "https://claude.ai/schemas/marketplace.json",
+  "name": "hyperengineering",
+  "description": "Official plugins from Hyper Engineering",
+  "owner": {
+    "name": "Hyper Engineering",
+    "email": "plugins@hyperengineering.ai"
+  },
+  "plugins": [
+    {
+      "name": "recall",
+      "description": "Experiential memory system for AI coding agents. Record, query, and learn from development insights across sessions.",
+      "source": {
+        "type": "github",
+        "repo": "hyperengineering/recall-claude-plugin"
+      },
+      "category": "developer-tools",
+      "tags": [
+        "memory",
+        "lore",
+        "mcp",
+        "ai-agent",
+        "knowledge-base",
+        "learning"
+      ],
+      "version": "1.0.0"
+    }
+  ]
+}
